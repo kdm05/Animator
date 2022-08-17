@@ -24,7 +24,7 @@ loadstring(game:HttpGetAsync('https://github.com/kdm05/Animator/blob/main/Core.l
 * If ur done making an shape from 1 boombox head to the [template](https://github.com/kdm05/Animator/blob/main/GripTemplate.lua)
 * And start editing the values from the animator.
 
-#To do:
+# To do:
 - Add presents
 - Copy values from sliders automatically for u
 - multiple tool support
