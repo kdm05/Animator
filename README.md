@@ -26,6 +26,5 @@ loadstring(game:HttpGetAsync('https://github.com/kdm05/Animator/blob/main/Core.l
 
 # To do:
 - Add presents
-- Copy values from sliders automatically for u
 - multiple tool support
 - game for animating
