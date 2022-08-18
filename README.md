@@ -16,7 +16,7 @@ Simple Grip Animator used to make FE scripts.
 ## Tutorial
 * As said above u need executor. Execute the loadstring below:
 ```lua
-loadstring(game:HttpGetAsync('https://github.com/kdm05/Animator/blob/main/Core.lua'))()
+loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/kdm05/Animator/main/Core.lua'))()
 ```
 
 * The UI is simple to use and u will easly understand how to use it.
