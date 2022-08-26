@@ -25,6 +25,5 @@ loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/kdm05/Animator/m
 * And start editing the values from the animator.
 
 # To do:
-- rebrand my discord server to be more to the animator
 - multiple tool support
 - game for animating
